@@ -10,7 +10,7 @@ I'm the **Founder & Engineer at [XenYou](https://github.com/Xenyou-technologies)
 
 ## 🚀 What I'm Building
 
-### 🏠 [XenYou](https://github.com/)
+### 🏠 [XenYou](https://github.com/Xenyou-technologies)
 
 > AI-first accommodation discovery and matching for students.
 
