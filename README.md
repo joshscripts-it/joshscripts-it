@@ -4,13 +4,13 @@
 
 I build web and mobile applications, explore AI-driven solutions, and turn ideas into real-world products.
 
-I'm the **Founder & Engineer at [XenYou](https://github.com/Xenyou-technologies)** — an AI-first accommodation discovery and matching platform focused on helping students find suitable housing.
+I'm the **Founder & Engineer at [XenYou](https://xenyou.onrender.com)** — an AI-first accommodation discovery and matching platform focused on helping students find suitable housing.
 
 ---
 
 ## 🚀 What I'm Building
 
-### 🏠 [XenYou](https://github.com/Xenyou-technologies)
+### 🏠 [XenYou](https://xenyou.onrender.com)
 
 > AI-first accommodation discovery and matching for students.
 
