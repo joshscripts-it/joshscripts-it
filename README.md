@@ -1,31 +1,12 @@
 # 👋 Hey, I'm Joshscript
 
-### Founder & Full-Stack Software Engineer
+### Full-Stack Software Engineer
 
 I build web and mobile applications, explore AI-driven solutions, and turn ideas into real-world products.
 
 I'm the **Founder & Engineer at [XenYou](https://xenyou.onrender.com)** — an AI-first accommodation discovery and matching platform focused on helping students find suitable housing.
 
----
 
-## 🚀 What I'm Building
-
-### 🏠 [XenYou](https://xenyou.onrender.com)
-
-> AI-first accommodation discovery and matching for students.
-
-I'm building XenYou to help students discover suitable hostels and apartments through personalized recommendations while connecting them with landlords.
-
-**Focus areas:**
-
-* 🤖 AI-powered accommodation recommendations for students
-* 🏠 Student-centered housing discovery and affordability
-* 🛡️ Landlord and property verification to reduce housing fraud
-* 🤝 Building safer, more transparent experiences for students and landlords
-* 🌍 Connecting students with trusted accommodation opportunities near their campuses
-
-
----
 
 ## 💻 Tech Stack
 
@@ -102,6 +83,25 @@ I'm building XenYou to help students discover suitable hostels and apartments th
 - Developing reliable and scalable software.
 - Exploring AI-powered product experiences.
 - Open to selected freelance and remote software engineering opportunities.
+
+---
+
+## 🚀 What I'm Building
+
+### 🏠 [XenYou](https://xenyou.onrender.com)
+
+> AI-first accommodation discovery and matching for students.
+
+I'm building XenYou to help students discover suitable hostels and apartments through personalized recommendations while connecting them with landlords.
+
+**Focus areas:**
+
+* 🤖 AI-powered accommodation recommendations for students
+* 🏠 Student-centered housing discovery and affordability
+* 🛡️ Landlord and property verification to reduce housing fraud
+* 🤝 Building safer, more transparent experiences for students and landlords
+* 🌍 Connecting students with trusted accommodation opportunities near their campuses
+
 
 ---
 
