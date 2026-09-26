@@ -70,9 +70,9 @@ I'm the **Founder & Engineer at [XenYou](https://xenyou.onrender.com)** — an A
   </a>
 </p>
 
-- 🌍 Portfolio: [joshscript.vercel.app](https://joshscript.vercel.app)
+- 🌍 Portfolio: [See Some Of My Projects](https://joshscript.vercel.app)
 - 💼 Upwork: [Hire Me](https://www.upwork.com/freelancers/~01e654819a1555e31b?mp_source=share)
-- 📧 Email: [developer.gemjoshua@gmail.com](mailto:developer.gemjoshua@gmail.com)
+- 📧 Email: [Email Me Now](mailto:developer.gemjoshua@gmail.com)
 - ☕ Support my work: [Buy Me a Coffee](https://bit.ly/48zy9gJ)
 
 ---
